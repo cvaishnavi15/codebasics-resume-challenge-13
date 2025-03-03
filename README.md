@@ -1,1 +1,1 @@
-# codebasics-resume-challenge-13
+As part of CodeBasics.io's Resume Challenge, I participated in solving real-world business problems usingSQL, Data Analysis. The challenge involved addressing specific business requirements and delivering a comprehensive solution.
